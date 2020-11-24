@@ -8,11 +8,11 @@ namespace Se307
 {
     class RockPaperScissors
     {
+        
         static void Main(string[] args)
         {
             Random rnd= rnd=new Random();
-            
-            string exit="";
+           
             int pcCounter=0, userCounter=0;
             
             while (true)
@@ -65,8 +65,3 @@ namespace Se307
         }
     }
 }
-/*
-    Taş>Makas
-    Makas>Kağıt
-    Kağıt>Taş
-*/

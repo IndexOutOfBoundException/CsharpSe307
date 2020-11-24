@@ -7,6 +7,22 @@
       <e p="packages" t="ExcludeRecursive" />
       <e p="Se307" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Lab2" t="Include">
+          <e p="ActivityRoom.cs" t="Include" />
+          <e p="ActivityRoomTest.cs" t="Include" />
+          <e p="Car.cs" t="Include" />
+          <e p="CheckingBankAccount.cs" t="Include" />
+          <e p="CheckingBankAccount.png" t="Include" />
+          <e p="CheckingBankAccountTest.cs" t="Include" />
+          <e p="Employee.cs" t="Include" />
+          <e p="EmployeeTest.cs" t="Include" />
+          <e p="GadgetzanCo.cs" t="Include" />
+          <e p="GadgetzanCoTest.cs" t="Include" />
+          <e p="Position.cs" t="Include" />
+          <e p="PositionTest.cs" t="Include" />
+          <e p="Time.cs" t="Include" />
+          <e p="TimeTeset.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="net472" t="Include">
