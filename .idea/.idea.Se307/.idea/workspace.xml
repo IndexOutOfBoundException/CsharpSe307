@@ -22,12 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c4f1574-b11f-43d9-aa85-9ed2aa290b3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Se307/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Se307/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Se307/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Se307/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Se307/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Se307/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Se307/RockPaperScissors/RockPaperScissors.cs" beforeDir="false" />
-    </list>
+    <list default="true" id="8c4f1574-b11f-43d9-aa85-9ed2aa290b3d" name="Default Changelist" comment="Lab2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,8 +48,9 @@
         <option value="$PROJECT_DIR$/Se307/Lab2/CheckingBankAccountTest.cs" />
         <option value="$PROJECT_DIR$/Se307/Lab2/Employee.cs" />
         <option value="$PROJECT_DIR$/Se307/Lab2/EmployeeTest.cs" />
-        <option value="$PROJECT_DIR$/Se307/Lab2/ActivityRoom.cs" />
         <option value="$PROJECT_DIR$/Se307/Lab2/ActivityRoomTest.cs" />
+        <option value="$PROJECT_DIR$/Se307/Lab2/Car.cs" />
+        <option value="$PROJECT_DIR$/Se307/Lab2/ActivityRoom.cs" />
       </list>
     </option>
   </component>
@@ -69,6 +65,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -104,7 +101,16 @@
       <workItem from="1605924024476" duration="2177000" />
       <workItem from="1606212782278" duration="2584000" />
       <workItem from="1606225542296" duration="6306000" />
+      <workItem from="1606231926672" duration="316000" />
     </task>
+    <task id="LOCAL-00001" summary="Lab2">
+      <created>1606231972988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606231972988</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +135,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Lab2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="517" y="236" key="#Notifications" timestamp="1605924519191">
